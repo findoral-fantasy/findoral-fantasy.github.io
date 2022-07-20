@@ -1,0 +1,10 @@
+{
+  "name": "findoral-fantasy",
+  "version": "1.0.0",
+  "description": "Findoral Fantasy",
+  "main": "README.md",
+  "repository": "https://github.com/findoral-fantasy/findoral-fantasy.github.io.git",
+  "author": "Sephiroth <Fun.NY.Master+Sephiroth@gmail.com>",
+  "license": "Unlicensed",
+  "private": true
+}
